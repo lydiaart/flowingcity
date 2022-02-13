@@ -32,7 +32,7 @@ Thanks for visiting!
 
 
 ## Usage 
-The following demonstrates the web application's appearance and functionality:
+The following demonstrates the web application's appearance and functionality:<br/>
 [Link](https://watch.screencastify.com/v/LOGX3c1UP4XRZOMnMCuZ1)
 
 
