@@ -33,12 +33,6 @@ Thanks for visiting!
 
 ## Usage 
 The following demonstrates the web application's appearance and functionality:
-
-
-
-<img src="./public/assets/images/Start New Journey.gif" width="600" height="" />
-
-For a clearer video, please click the following link.<br />
 [Link](https://watch.screencastify.com/v/LOGX3c1UP4XRZOMnMCuZ1)
 
 
@@ -62,36 +56,4 @@ If you have any questions or issues please create issue here:<br/>
 
 
 Thank you!
-
-
-## Description
-
-This is Lydia's portfolio. 
-Thanks for visiting!
-
-
-## Table of Contents
-
-* [Built With](#Builtwith)
-* [Usage](#Usage)
-* [Websites](#Websites)
-* [Credits](#Credits)
-
-
-## Built With
-
-
-
-## Usage
-The following image demonstrates the web application's appearance and functionality:
-<img src=" " alt="portfolio"/>
-
-
-## Websites
-
-
-
-
-## Credits
-
 
