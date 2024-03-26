@@ -45,7 +45,7 @@ The following demonstrates the web application's appearance and functionality:<b
 
 ## Credits
 
-  [Lydia Loy](https://github.com/flowingcityloy)<br/>
+  [Lydia L]
 
 
 
